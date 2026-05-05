@@ -1,10 +1,22 @@
-- 👋 Hi, I’m (@RupaliGupta1)
-- 👀 I’m interested in IT field to explore more about technologies , make my expertise and bring out innovative ideas to grow and develop
-- 🌱 I’m currently learning Java Full Stack and maded on project that is grocery store with spring boot and angular.
-- 💞️ I’m looking for opportunity where I can use my skill set and get valuable experience.
-- 📫 You can reach me out through my email rupaligupta1602@gmail.com
+🚀 Software Developer | Java | Spring Boot | Microservices
 
-<!---
-RupaliGupta1/RupaliGupta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Software Developer with 2+ years of experience building scalable and secure backend systems using Java and Spring Boot. I specialize in designing microservices architectures and developing robust RESTful APIs with a strong focus on authentication, authorization, and data integrity.
+
+Currently working at Bhavana Tech Business Solution Pvt. Ltd., where I develop enterprise-grade applications using Spring Boot and Angular. I have hands-on experience in API design, system optimization, and implementing secure workflows using Spring Security and OAuth2.
+
+💡 I’ve worked extensively with:
+
+Microservices & API Gateway architectures
+Asynchronous systems using Kafka & RabbitMQ
+CI/CD pipelines with Docker & Jenkins
+Databases: MySQL & MongoDB
+Cloud & DevOps tools including Azure
+
+🔍 Highlight Project:
+Built an AI-powered Fitness Recommendation System leveraging Spring AI, microservices architecture, and Keycloak for secure authentication. This project strengthened my expertise in distributed systems and scalable design.
+
+I enjoy solving complex problems, optimizing performance, and continuously learning new technologies to build efficient, reliable systems.
+
+🛠️ Tech Stack
+
+Java | Spring Boot | Microservices | REST APIs | Spring Security | OAuth2 | Kafka | RabbitMQ | Docker | Jenkins | MySQL | MongoDB | Angular | React | Azure
